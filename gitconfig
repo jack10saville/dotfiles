@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jack10saville@gmail.com
+	name = jack saville
